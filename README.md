@@ -10,7 +10,7 @@ Acompanhar minha evolução e desenvolvimento contínuo de habilidades.
 ### 1. Ciência de Dados & IA
 | Certificado | Instituição | Carga Horária | Data |
 | :--- | :--- | :--- | :--- |
-| [Inteligência Artificial Generativa para Startups: Bootcamp]() | AWS & Sebrae | X horas | Nov 2024 |
+| [Inteligência Artificial Generativa para Startups: Bootcamp]() | AWS & Sebrae | 04h | Nov 2024 |
 | [Inteligência Artificial Generativa para Startups: Fundamentos]() | AWS & Sebrae | 04h | Nov 2024 |
 
 ### 2. Cloud Computing
